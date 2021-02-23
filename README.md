@@ -10,7 +10,7 @@ The dataset used is available here  :
 http://biometrics.idealtest.org/dbDetailForUser.do?id=4
 
 ## Algorithm description
-KNN for 
+KNN
 
 ## Results
 67% accuracy on the 24 images test set
